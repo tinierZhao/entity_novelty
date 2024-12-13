@@ -1,3 +1,4 @@
 # RNTC
 Research nature and team composition
-![image](https://github.com/user-attachments/assets/d7a5f267-d7de-4177-b720-04327808372f)
+![image](https://github.com/user-attachments/assets/0492d17e-f62b-4600-b084-30311e7af95f)
+
