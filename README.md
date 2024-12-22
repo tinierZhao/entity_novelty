@@ -25,7 +25,7 @@
 
 ## Method
 
-   - **Dataset construction.** We constructed an original dataset that includes scientific and technical literature in the NLP field, comprising papers and patents published between 2000 and 2022, and extracted author information and their affiliated institutions for each document. [The data for the paper can be found here]([ZH-heng/technology_development](https://github.com/ZH-heng/technology_development))
+   - **Dataset construction.** We constructed an original dataset that includes scientific and technical literature in the NLP field, comprising papers and patents published between 2000 and 2022, and extracted author information and their affiliated institutions for each document. [The data for the paper refer to the work of the Zhang et al. (2023)]([ZH-heng/technology_development](https://github.com/ZH-heng/technology_development))
    - **novelty Calculate.** Fine-grained knowledge entities were extracted from both academic papers and patents, with the knowledge from academic papers being transferred to patents. The difficulty of their combinations was measured based on the semantic distances between these entities. This approach was then used to assess the novelty of each document. 
    - **Regression analysis.** A regression model was employed to conduct statistical tests on the novelty of scientific and technical literature from different institutions. Additionally, we treated the top 10% of papers and patents each year as high-novelty documents and performed a robustness check of our results using binary logistic regression.
 
