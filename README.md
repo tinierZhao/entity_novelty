@@ -65,12 +65,8 @@ entity_novelty
 │    ├─ paper_novelty_stata.ipynb
 │    └─ patent_novelty_stata.ipynb
 ├─ data
-│    ├─ paper_demo
-│    │    ├─ ACL_authors.xlsx
-│    │    ├─ paper-ent-ids.parquet
-│    │    └─ paper_title_abstract.xlsx
-│    └─ patent_demo
-│           └─ 4001-5000.XLSX
+│    ├─ paper&patent_data ...
+│    
 └─ image
        ├─ Box.png
        ├─ authors.png
