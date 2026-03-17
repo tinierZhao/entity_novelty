@@ -86,6 +86,6 @@ System environment is set up according to the following configuration:
 - numpy 1.24.1
 
 ## Citation
-Please cite the following paper if you use this code and dataset in your work.
+Please cite the following paper if you use this code and dataset in your work. <br>
 Zhao, H., Zhao, Y., & Zhang, C. (2025). Exploring novelty differences between industry and academia: A knowledge entity-centric perspective. ***Scientometrics***. [In press]()
     
