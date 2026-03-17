@@ -87,4 +87,5 @@ System environment is set up according to the following configuration:
 
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
+Zhao, H., Zhao, Y., & Zhang, C. (2025). Exploring novelty differences between industry and academia: A knowledge entity-centric perspective. 20th International Conference on Scientometrics & Informetrics. Yerevan, Armenia. (doi)[https://doi.org/10.51408/issi2025_088]
     
