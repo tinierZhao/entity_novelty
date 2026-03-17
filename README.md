@@ -53,7 +53,7 @@ At both the paper and patent levels, academic and collaborative institutions exh
 <div align="center">
 <img src="./image/Box.png" width=100% height=100%/>
 </div>
-<div align="center"><b>Figure 5. Box plot of novelty distribution. (a) Novelty differences across publishing institutions in the papers (b) Novelty differences across publishing institutions in the patents</b></div>
+<div align="center"><b>Figure 5. Violin Plots of novelty distribution. (a) Novelty differences across publishing institutions in the papers (b) Novelty differences across publishing institutions in the patents</b></div>
 
 ## Directory structure
 
