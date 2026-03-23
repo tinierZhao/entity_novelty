@@ -88,5 +88,5 @@ System environment is set up according to the following configuration:
 ## Citation
 Please cite the following paper if you use this code and dataset in your work. <br>
 
->Hongye Zhao, Yi Zhao, Chengzhi Zhang\*. Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspective. ***Scientometrics***. 2026,  [[doi]]()      [[arXiv]](http://arxiv.org/abs/2603.19319 )  [[Dataset & Source Code]](https://github.com/tinierZhao/entity_novelty)
+>Hongye Zhao, Yi Zhao, Chengzhi Zhang\*. Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspective. ***Scientometrics***. 2026,  [[doi]](https://doi.org/10.1007/s11192-026-05607-z)      [[arXiv]](http://arxiv.org/abs/2603.19319 )  [[Dataset & Source Code]](https://github.com/tinierZhao/entity_novelty)
     
