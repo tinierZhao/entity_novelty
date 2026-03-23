@@ -1,4 +1,4 @@
-# **Where are Novel Ideas Generated: Academia or Industry? Evidence from Natural Language Processing Domain**
+# **Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspective**
 
 ## Overview
 
@@ -6,9 +6,9 @@
 
 * **Objective**: This project investigates the comparative novelty of academic and industrial outputs in the field of Natural Language Processing (NLP).
 
-* **Research Question**: The study addresses the debate on whether academia or industry produces more novel ideas, particularly in the context of NLP.
+* **Research Question**: Is there a difference in the novelty of scientific and technical literature between industry and academia?
 
-* **Data Sources**: The analysis uses both academic papers and patents to measure and compare the novelty of outputs from academia and industry.
+* **Data Sources**: The analysis uses both papers and patents to measure and compare the novelty of outputs from academia and industry.
 
 * **Novelty Measurement**: A fine-grained, knowledge entity-based novelty measurement approach is applied to quantify the innovation of publications.
 
