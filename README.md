@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Dataset and source code for paper "Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspectiv".**
+**Dataset and source code for paper "Exploring Novelty Differences between Industry and Academia: A Knowledge Entity-centric Perspective".**
 
 * **Objective**: This project investigates the comparative novelty of academic and industrial outputs in the field of Natural Language Processing (NLP).
 
